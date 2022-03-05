@@ -8,3 +8,4 @@
 - Setup database with reactive connection
 - Clear-up config handling
 - Deploy on the cloud
+- Clear-up branch strategy
